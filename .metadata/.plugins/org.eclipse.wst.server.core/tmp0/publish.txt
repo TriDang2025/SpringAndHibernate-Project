@@ -1,6 +1,0 @@
-#Tomcat publish data
-#Mon Aug 15 19:42:39 ICT 2022
-org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\vtriw\\eclipse-workspace\\web-customer-tracker\\WebContent\\WEB-INF\\lib\\spring-web-5.3.8.jar=WEB-INF/lib/spring-web-5.3.8.jar
-org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\vtriw\\eclipse-workspace\\web-customer-tracker-new\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.3.8-sources.jar=WEB-INF/lib/spring-web-5.3.8-sources.jar
-org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\vtriw\\eclipse-workspace\\web-customer-tracker-new\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.3.8.jar=WEB-INF/lib/spring-web-5.3.8.jar
-org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\vtriw\\eclipse-workspace\\web-customer-tracker\\WebContent\\WEB-INF\\lib\\spring-web-5.3.8-sources.jar=WEB-INF/lib/spring-web-5.3.8-sources.jar
